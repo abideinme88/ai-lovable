@@ -24,6 +24,18 @@ npm run server   # http://localhost:3001
 npm run dev      # http://localhost:5173
 ```
 
+## GitHub Pages 배포
+
+이 프로젝트는 `ai-lovable` 저장소 기준으로 GitHub Pages 배포가 설정되어 있습니다.
+
+```bash
+# 정적 빌드 + gh-pages 브랜치 배포
+npm run deploy
+```
+
+배포 후 주소:
+- `https://abideinme88.github.io/ai-lovable/`
+
 ## 폴더 구조
 
 ```
